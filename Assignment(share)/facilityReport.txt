@@ -1,0 +1,23 @@
+			   C L O S E D   F A C I L I T I E S   R E P O R T
+			 . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+
+-------------------------------------------------------------------------------
+       Facility ID               Description              Venue Location
+-------------------------------------------------------------------------------
+
+           KA1                  KARAOKE ROOM 1             MAIN BLOCK         
+
+           SW2                  SWIMMING POOL 2            SWIMMING CENTRE 2  
+
+           SP1                  SPA ROOM 1                 WELLNESS CENTRE    
+
+
+-------------------------------------------------------------------------------
+
+Number of Facilities Not Operating =  3
+
+The Facilities Above Are Closed Due To Unhygienic Reasons. Please Take Action
+To Expedite The Maintenance Cleaning To Allow Customer Usage.
+
+-------------------------------------------------------------------------------
