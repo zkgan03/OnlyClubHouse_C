@@ -4,3 +4,5 @@
 
 ## How to use
 1. Install & Open Visual Studio 2022
+
+> **NOTE :** Open `README_StaffCredential.txt` to get the login credential 
