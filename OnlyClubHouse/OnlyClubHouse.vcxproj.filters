@@ -18,6 +18,27 @@
     <ClCompile Include="main.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Staff.h">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Booking.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Common.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Facility.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FacilityUsage.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Member.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Staff.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="membersInfo.bin">
@@ -26,5 +47,22 @@
     <None Include="staffdata.bin">
       <Filter>Resource Files</Filter>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Facility.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Member.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Booking.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="FacilityUsage.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
